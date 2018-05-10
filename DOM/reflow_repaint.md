@@ -1,4 +1,4 @@
-#What are reflows and repaints and how to avoid them
+# What are reflows and repaints and how to avoid them
 Its becoming increasingly common for the topic of reflows and repaints to come up when talking about improving page performance. Although the two of them are closely related, they differ in terms of the impact each can have on browser performance.
 
 ## Repaint
